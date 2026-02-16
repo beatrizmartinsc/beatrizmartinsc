@@ -1,16 +1,85 @@
-## Hi there 👋
+# Beatriz Martins
 
-<!--
-**beatrizmartinsc/beatrizmartinsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity | Incident Response & Log Analysis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CYBERSECURITY PROJECTS
+
+### INCIDENT RESPONSE & THREAT ANALYSIS
+
+- **Incident Response Handler’s Journal**  
+  Structured case documentation aligned with the NIST Incident Response Lifecycle, including ransomware, phishing, and malicious file investigations.  
+  - 
+
+- **Malicious File Analysis (VirusTotal & Pyramid of Pain)**  
+  SHA256 hash investigation, multi-vendor threat validation, and indicator classification.
+
+- **Ransomware Attack Analysis (Phishing Vector)**  
+  Detection, analysis, containment considerations, and impact assessment in a healthcare environment.
+
+---
+
+### NETWORK TRAFFIC ANALYSIS
+
+- **Packet Analysis using Wireshark**  
+  Inspection of packet headers and payloads, TCP communication patterns, and display filter application.
+
+- **Network Capture & Filtering using tcpdump (Linux)**  
+  Live traffic capture, port filtering, HTTP traffic generation, and packet-level review.
+
+  → 
+
+---
+
+### LOG ANALYSIS & SQL THREAT HUNTING
+
+- **Failed Login Detection Queries**
+- **Suspicious IP Activity Filtering**
+- **After-Hours Access Investigation**
+
+  Practical SQL queries designed to identify brute-force behavior and anomalous authentication patterns.
+
+  → 
+
+---
+
+### LINUX SECURITY FUNDAMENTALS
+
+- File permission management (chmod, chown)
+- Network interface identification
+- Command-line packet capture
+- Principle of least privilege implementation
+
+---
+
+## LAB ENVIRONMENT
+
+- Windows Virtual Machine
+- Linux Virtual Machine
+- Wireshark
+- tcpdump
+- VirusTotal
+- SHA256 Hash Analysis
+- Virtualized testing environment
+
+---
+
+## CERTIFICATION
+
+Google Cybersecurity Professional Certificate
+
+---
+
+## CURRENT FOCUS
+
+- Security+ Preparation
+- Expanding Home Lab Capabilities
+- Detection & Analysis Methodology
+- Threat Investigation Workflows
+
+---
+
+## CONNECT
+
+LinkedIn: https://linkedin.com/in/YOURLINK
