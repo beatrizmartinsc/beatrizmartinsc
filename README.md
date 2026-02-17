@@ -1,4 +1,4 @@
-# Beatriz Martins
+ # Beatriz Martins
 
 ## Cybersecurity | Incident Response & Log Analysis
 
@@ -82,4 +82,4 @@ Google Cybersecurity Professional Certificate
 
 ## CONNECT
 
-LinkedIn: https://linkedin.com/in/YOURLINK
+LinkedIn:
