@@ -56,7 +56,6 @@ Practical SQL queries designed to identify brute-force behavior and anomalous au
 
 ## Current Focus
 
-- Security+ Preparation
 - Expanding Home Lab Capabilities
 - Detection & Analysis Methodology
 - Threat Investigation Workflows
