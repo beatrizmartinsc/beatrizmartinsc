@@ -28,8 +28,6 @@
 - **Network Capture & Filtering using tcpdump (Linux)**  
   Live traffic capture, port filtering, HTTP traffic generation, and packet-level review.
 
-  → 
-
 ---
 
 ### LOG ANALYSIS & SQL THREAT HUNTING
@@ -39,8 +37,6 @@
 - **After-Hours Access Investigation**
 
   Practical SQL queries designed to identify brute-force behavior and anomalous authentication patterns.
-
-  → 
 
 ---
 
@@ -82,4 +78,5 @@ Google Cybersecurity Professional Certificate
 
 ## CONNECT
 
-LinkedIn:
+LinkedIn: www.linkedin.com/in/beatriz-martins-cybersecurity
+
